@@ -12,10 +12,10 @@
 🎓 Completed an M.Tech degree in CSE from IIT Guwahati, excelling in a fascinating area of Seismic signal enhancement using stochastic resonance.
 
 🌟 Recent News & Activities:
-- Paper titled “A Comprehensive Review on Efficient Artificial Intelligence Models for Classification of Abnormal Cardiac Rhythms using
-Electrocardiograms.” Accepted in Heliyon, ELsevier in 2024.
-- Joined Eli Lilly and Company in June 2022.
+- Paper “A Comprehensive Review on Efficient Artificial Intelligence Models for Classification of Abnormal Cardiac Rhythms using Electrocardiograms.” Accepted in Heliyon, ELsevier in 2024.
 - Presented paper at IJCNN in August 2022 at Padua, Italy.
+- Joined Eli Lilly and Company in June 2022.
+- In February 2022, Paper "Atrial fibrillation classification and prediction explanation using transformer neural network” accepted in IJCNN.
 
 👯 I’m looking to collaborate on ML in Healthcare.
 
